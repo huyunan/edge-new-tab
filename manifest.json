@@ -1,0 +1,17 @@
+{
+   "manifest_version": 3,
+   "name": "自定义标签页-百度",
+   "version": "1.0",
+   "author": "huyunan",
+   "homepage_url": "https://github.com/huyunan/edge-new-tab#",
+   "description": "The new TAB of the edge browser has been changed to Baidu website.",
+   "chrome_url_overrides": {
+      "newtab": "newtab.html"
+   },
+   "icons": {
+      "16": "icon_16.png",
+      "48": "icon_48.png",
+      "128": "icon_128.png"
+   },
+   "offline_enabled": true
+}
