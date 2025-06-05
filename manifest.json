@@ -8,11 +8,12 @@
    "chrome_url_overrides": {
       "newtab": "newtab.html"
    },
-   "permissions": ["storage", "activeTab", "scripting"],
+   "permissions": ["storage", "scripting", "activeTab"],
    "icons": {
       "16": "icon_16.png",
       "48": "icon_48.png",
       "128": "icon_128.png"
    },
+   "update_url": "https://edge.microsoft.com/extensionwebstorebase/v1/crx",
    "offline_enabled": true
 }
